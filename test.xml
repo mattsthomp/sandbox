@@ -1,0 +1,466 @@
+<message gdt="20150114" id="1421288338178" next_url="http://data.nba.com/data/10s/xml/nbacom/2014/scores/20150114/NOPDET/pbp_3.xml">
+<game arn="44|Palace of Auburn Hills|Detroit, MI|0|22076" id="0021400577" ldchg="0" tie="0" poss="" pord="" timh="1930" timloc="1930" timv="1930" clk="12:00" gcd="20150114/NOPDET" gstat="" gstattxt="Start of 4th Qtr" gtyp="2" prd="4" rcp="" seq="4" timet="1930" vid="/video/games/pistons/2015/01/14/0021400577-nop-det-play2.nba/index.html" nbrd="">
+<event eventid="216" prd="3" game_clock="12:00" htms="36" vtms="58" msg_type="12" action_type="0" player_code="" tm="pistons">
+<![CDATA[ (12:00)Start Period ]]>
+</event>
+<event eventid="217" prd="3" game_clock="11:44" htms="38" vtms="58" msg_type="1" action_type="5" player_code="kyle_singler" tm="pistons">
+<![CDATA[
+(11:44)[DET 38-58] Singler Layup Shot: Made (4 PTS) Assist: Monroe (3 AST)
+]]>
+</event>
+<event eventid="218" prd="3" game_clock="11:27" htms="38" vtms="60" msg_type="1" action_type="1" player_code="anthony_davis" tm="pelicans">
+<![CDATA[
+(11:27)[NOP 60-38] Davis Jump Shot: Made (13 PTS) Assist: Gordon (3 AST)
+]]>
+</event>
+<event eventid="219" prd="3" game_clock="11:12" htms="38" vtms="60" msg_type="6" action_type="2" player_code="eric_gordon" tm="pelicans">
+<![CDATA[ (11:12)[NOP] Gordon Foul: Shooting (1 PF) (2 FTA) ]]>
+</event>
+<event eventid="220" prd="3" game_clock="11:12" htms="39" vtms="60" msg_type="3" action_type="11" player_code="greg_monroe" tm="pistons">
+<![CDATA[
+(11:12)[DET 39-60] Monroe Free Throw 1 of 2 (12 PTS)
+]]>
+</event>
+<event eventid="222" prd="3" game_clock="11:12" htms="40" vtms="60" msg_type="3" action_type="12" player_code="greg_monroe" tm="pistons">
+<![CDATA[
+(11:12)[DET 40-60] Monroe Free Throw 2 of 2 (13 PTS)
+]]>
+</event>
+<event eventid="224" prd="3" game_clock="10:50" htms="40" vtms="60" msg_type="2" action_type="3" player_code="anthony_davis" tm="pelicans">
+<![CDATA[ (10:50)[NOP] Davis Hook Shot: Missed ]]>
+</event>
+<event eventid="225" prd="3" game_clock="10:48" htms="40" vtms="60" msg_type="4" action_type="0" player_code="kyle_singler" tm="pistons">
+<![CDATA[ (10:48)[DET] Singler Rebound (Off:0 Def:1) ]]>
+</event>
+<event eventid="226" prd="3" game_clock="10:42" htms="43" vtms="60" msg_type="1" action_type="1" player_code="brandon_jennings" tm="pistons">
+<![CDATA[ (10:42)[DET 43-60] Jennings 3pt Shot: Made (7 PTS) ]]>
+</event>
+<event eventid="227" prd="3" game_clock="10:24" htms="43" vtms="62" msg_type="1" action_type="1" player_code="dante_cunningham" tm="pelicans">
+<![CDATA[
+(10:24)[NOP 62-43] Cunningham Jump Shot: Made (4 PTS) Assist: Gordon (4 AST)
+]]>
+</event>
+<event eventid="228" prd="3" game_clock="10:04" htms="43" vtms="62" msg_type="2" action_type="1" player_code="brandon_jennings" tm="pistons">
+<![CDATA[ (10:04)[DET] Jennings 3pt Shot: Missed ]]>
+</event>
+<event eventid="229" prd="3" game_clock="10:03" htms="43" vtms="62" msg_type="4" action_type="0" player_code="omer_asik" tm="pelicans">
+<![CDATA[ (10:03)[NOP] Asik Rebound (Off:2 Def:7) ]]>
+</event>
+<event eventid="230" prd="3" game_clock="09:42" htms="43" vtms="64" msg_type="1" action_type="1" player_code="anthony_davis" tm="pelicans">
+<![CDATA[ (09:42)[NOP 64-43] Davis Jump Shot: Made (15 PTS) ]]>
+</event>
+<event eventid="231" prd="3" game_clock="09:26" htms="46" vtms="64" msg_type="1" action_type="1" player_code="kyle_singler" tm="pistons">
+<![CDATA[
+(09:26)[DET 46-64] Singler 3pt Shot: Made (7 PTS) Assist: Monroe (4 AST)
+]]>
+</event>
+<event eventid="232" prd="3" game_clock="08:58" htms="46" vtms="66" msg_type="1" action_type="1" player_code="dante_cunningham" tm="pelicans">
+<![CDATA[
+(08:58)[NOP 66-46] Cunningham Jump Shot: Made (6 PTS) Assist: Evans (6 AST)
+]]>
+</event>
+<event eventid="233" prd="3" game_clock="08:51" htms="46" vtms="66" msg_type="6" action_type="2" player_code="eric_gordon" tm="pelicans">
+<![CDATA[ (08:51)[NOP] Gordon Foul: Shooting (2 PF) (2 FTA) ]]>
+</event>
+<event eventid="234" prd="3" game_clock="08:51" htms="47" vtms="66" msg_type="3" action_type="11" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(08:51)[DET 47-66] Jennings Free Throw 1 of 2 (8 PTS)
+]]>
+</event>
+<event eventid="236" prd="3" game_clock="08:51" htms="48" vtms="66" msg_type="3" action_type="12" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(08:51)[DET 48-66] Jennings Free Throw 2 of 2 (9 PTS)
+]]>
+</event>
+<event eventid="238" prd="3" game_clock="08:40" htms="48" vtms="66" msg_type="5" action_type="1" player_code="eric_gordon" tm="pelicans">
+<![CDATA[ (08:40)[NOP] Gordon Turnover : Bad Pass (3 TO) ]]>
+</event>
+<event eventid="239" prd="3" game_clock="08:21" htms="48" vtms="66" msg_type="2" action_type="5" player_code="greg_monroe" tm="pistons">
+<![CDATA[
+(08:21)[DET] Monroe Layup Shot: Missed Block: Davis (2 BLK)
+]]>
+</event>
+<event eventid="240" prd="3" game_clock="08:20" htms="48" vtms="66" msg_type="4" action_type="0" player_code="tyreke_evans" tm="pelicans">
+<![CDATA[ (08:20)[NOP] Evans Rebound (Off:0 Def:3) ]]>
+</event>
+<event eventid="241" prd="3" game_clock="08:10" htms="48" vtms="66" msg_type="2" action_type="1" player_code="dante_cunningham" tm="pelicans">
+<![CDATA[ (08:10)[NOP] Cunningham Jump Shot: Missed ]]>
+</event>
+<event eventid="242" prd="3" game_clock="08:08" htms="48" vtms="66" msg_type="4" action_type="0" player_code="anthony_davis" tm="pelicans">
+<![CDATA[ (08:08)[NOP] Davis Rebound (Off:1 Def:5) ]]>
+</event>
+<event eventid="243" prd="3" game_clock="07:49" htms="48" vtms="66" msg_type="6" action_type="2" player_code="greg_monroe" tm="pistons">
+<![CDATA[ (07:49)[DET] Monroe Foul: Shooting (2 PF) (2 FTA) ]]>
+</event>
+<event eventid="244" prd="3" game_clock="07:49" htms="48" vtms="67" msg_type="3" action_type="11" player_code="anthony_davis" tm="pelicans">
+<![CDATA[
+(07:49)[NOP 67-48] Davis Free Throw 1 of 2 (16 PTS)
+]]>
+</event>
+<event eventid="246" prd="3" game_clock="07:49" htms="48" vtms="68" msg_type="3" action_type="12" player_code="anthony_davis" tm="pelicans">
+<![CDATA[
+(07:49)[NOP 68-48] Davis Free Throw 2 of 2 (17 PTS)
+]]>
+</event>
+<event eventid="248" prd="3" game_clock="07:39" htms="48" vtms="68" msg_type="6" action_type="2" player_code="omer_asik" tm="pelicans">
+<![CDATA[ (07:39)[NOP] Asik Foul: Shooting (2 PF) (2 FTA) ]]>
+</event>
+<event eventid="249" prd="3" game_clock="07:39" htms="48" vtms="68" msg_type="3" action_type="11" player_code="greg_monroe" tm="pistons">
+<![CDATA[ (07:39)[DET] Monroe Free Throw 1 of 2 Missed ]]>
+</event>
+<event eventid="250" prd="3" game_clock="07:39" htms="48" vtms="68" msg_type="4" action_type="1" player_code="" tm="pistons">
+<![CDATA[ (07:39)[DET] Team Rebound ]]>
+</event>
+<event eventid="251" prd="3" game_clock="07:39" htms="49" vtms="68" msg_type="3" action_type="12" player_code="greg_monroe" tm="pistons">
+<![CDATA[
+(07:39)[DET 49-68] Monroe Free Throw 2 of 2 (14 PTS)
+]]>
+</event>
+<event eventid="253" prd="3" game_clock="07:24" htms="49" vtms="68" msg_type="2" action_type="1" player_code="anthony_davis" tm="pelicans">
+<![CDATA[ (07:24)[NOP] Davis Jump Shot: Missed ]]>
+</event>
+<event eventid="254" prd="3" game_clock="07:23" htms="49" vtms="68" msg_type="4" action_type="0" player_code="kentavious_caldwell-pope" tm="pistons">
+<![CDATA[ (07:23)[DET] Caldwell-Pope Rebound (Off:0 Def:2) ]]>
+</event>
+<event eventid="255" prd="3" game_clock="07:15" htms="49" vtms="68" msg_type="2" action_type="1" player_code="kyle_singler" tm="pistons">
+<![CDATA[ (07:15)[DET] Singler 3pt Shot: Missed ]]>
+</event>
+<event eventid="256" prd="3" game_clock="07:14" htms="49" vtms="68" msg_type="4" action_type="0" player_code="tyreke_evans" tm="pelicans">
+<![CDATA[ (07:14)[NOP] Evans Rebound (Off:0 Def:4) ]]>
+</event>
+<event eventid="257" prd="3" game_clock="07:07" htms="49" vtms="68" msg_type="2" action_type="1" player_code="dante_cunningham" tm="pelicans">
+<![CDATA[
+(07:07)[NOP] Cunningham Jump Shot: Missed Block: Drummond (2 BLK)
+]]>
+</event>
+<event eventid="258" prd="3" game_clock="07:07" htms="49" vtms="68" msg_type="4" action_type="0" player_code="" tm="pelicans">
+<![CDATA[ (07:07)[NOP] Team Rebound ]]>
+</event>
+<event eventid="259" prd="3" game_clock="06:56" htms="49" vtms="68" msg_type="6" action_type="2" player_code="andre_drummond" tm="pistons">
+<![CDATA[
+(06:56)[DET] Drummond Foul: Shooting (2 PF) (2 FTA)
+]]>
+</event>
+<event eventid="260" prd="3" game_clock="06:56" htms="49" vtms="69" msg_type="3" action_type="11" player_code="omer_asik" tm="pelicans">
+<![CDATA[ (06:56)[NOP 69-49] Asik Free Throw 1 of 2 (5 PTS) ]]>
+</event>
+<event eventid="262" prd="3" game_clock="06:56" htms="49" vtms="69" msg_type="8" action_type="0" player_code="andre_drummond" tm="pistons">
+<![CDATA[
+(06:56)[DET] Drummond Substitution replaced by Jerebko
+]]>
+</event>
+<event eventid="263" prd="3" game_clock="06:56" htms="49" vtms="70" msg_type="3" action_type="12" player_code="omer_asik" tm="pelicans">
+<![CDATA[ (06:56)[NOP 70-49] Asik Free Throw 2 of 2 (6 PTS) ]]>
+</event>
+<event eventid="265" prd="3" game_clock="06:36" htms="49" vtms="70" msg_type="2" action_type="3" player_code="greg_monroe" tm="pistons">
+<![CDATA[ (06:36)[DET] Monroe Hook Shot: Missed ]]>
+</event>
+<event eventid="266" prd="3" game_clock="06:34" htms="49" vtms="70" msg_type="4" action_type="0" player_code="omer_asik" tm="pelicans">
+<![CDATA[ (06:34)[NOP] Asik Rebound (Off:2 Def:8) ]]>
+</event>
+<event eventid="267" prd="3" game_clock="06:29" htms="49" vtms="70" msg_type="6" action_type="2" player_code="kentavious_caldwell-pope" tm="pistons">
+<![CDATA[
+(06:29)[DET] Caldwell-Pope Foul: Shooting (2 PF) (2 FTA)
+]]>
+</event>
+<event eventid="268" prd="3" game_clock="06:29" htms="49" vtms="70" msg_type="3" action_type="11" player_code="tyreke_evans" tm="pelicans">
+<![CDATA[ (06:29)[NOP] Evans Free Throw 1 of 2 Missed ]]>
+</event>
+<event eventid="269" prd="3" game_clock="06:29" htms="49" vtms="70" msg_type="4" action_type="1" player_code="" tm="pelicans">
+<![CDATA[ (06:29)[NOP] Team Rebound ]]>
+</event>
+<event eventid="270" prd="3" game_clock="06:29" htms="49" vtms="71" msg_type="3" action_type="12" player_code="tyreke_evans" tm="pelicans">
+<![CDATA[
+(06:29)[NOP 71-49] Evans Free Throw 2 of 2 (11 PTS)
+]]>
+</event>
+<event eventid="272" prd="3" game_clock="06:15" htms="51" vtms="71" msg_type="1" action_type="5" player_code="greg_monroe" tm="pistons">
+<![CDATA[
+(06:15)[DET 51-71] Monroe Layup Shot: Made (16 PTS) Assist: Singler (2 AST)
+]]>
+</event>
+<event eventid="273" prd="3" game_clock="06:15" htms="51" vtms="71" msg_type="6" action_type="2" player_code="anthony_davis" tm="pelicans">
+<![CDATA[ (06:15)[NOP] Davis Foul: Shooting (2 PF) (1 FTA) ]]>
+</event>
+<event eventid="275" prd="3" game_clock="06:15" htms="51" vtms="71" msg_type="9" action_type="1" player_code="" tm="pelicans">
+<![CDATA[ (06:15)[NOP] Team Timeout : Regular ]]>
+</event>
+<event eventid="276" prd="3" game_clock="06:15" htms="51" vtms="71" msg_type="3" action_type="10" player_code="greg_monroe" tm="pistons">
+<![CDATA[ (06:15)[DET] Monroe Free Throw 1 of 1 Missed ]]>
+</event>
+<event eventid="278" prd="3" game_clock="06:14" htms="51" vtms="71" msg_type="4" action_type="0" player_code="omer_asik" tm="pelicans">
+<![CDATA[ (06:14)[NOP] Asik Rebound (Off:2 Def:9) ]]>
+</event>
+<event eventid="279" prd="3" game_clock="05:51" htms="51" vtms="71" msg_type="2" action_type="1" player_code="eric_gordon" tm="pelicans">
+<![CDATA[ (05:51)[NOP] Gordon 3pt Shot: Missed ]]>
+</event>
+<event eventid="280" prd="3" game_clock="05:50" htms="51" vtms="71" msg_type="4" action_type="0" player_code="anthony_davis" tm="pelicans">
+<![CDATA[ (05:50)[NOP] Davis Rebound (Off:2 Def:5) ]]>
+</event>
+<event eventid="281" prd="3" game_clock="05:49" htms="51" vtms="71" msg_type="2" action_type="4" player_code="anthony_davis" tm="pelicans">
+<![CDATA[ (05:49)[NOP] Davis Tip Shot: Missed ]]>
+</event>
+<event eventid="282" prd="3" game_clock="05:46" htms="51" vtms="71" msg_type="4" action_type="0" player_code="kyle_singler" tm="pistons">
+<![CDATA[ (05:46)[DET] Singler Rebound (Off:0 Def:2) ]]>
+</event>
+<event eventid="283" prd="3" game_clock="05:31" htms="51" vtms="71" msg_type="2" action_type="5" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(05:31)[DET] Jennings Layup Shot: Missed Block: Asik (1 BLK)
+]]>
+</event>
+<event eventid="284" prd="3" game_clock="05:30" htms="51" vtms="71" msg_type="4" action_type="0" player_code="omer_asik" tm="pelicans">
+<![CDATA[ (05:30)[NOP] Asik Rebound (Off:2 Def:10) ]]>
+</event>
+<event eventid="285" prd="3" game_clock="05:30" htms="51" vtms="71" msg_type="6" action_type="1" player_code="brandon_jennings" tm="pistons">
+<![CDATA[ (05:30)[DET] Jennings Foul: Personal (1 PF) ]]>
+</event>
+<event eventid="286" prd="3" game_clock="05:30" htms="51" vtms="71" msg_type="8" action_type="0" player_code="omer_asik" tm="pelicans">
+<![CDATA[
+(05:30)[NOP] Asik Substitution replaced by Anderson
+]]>
+</event>
+<event eventid="287" prd="3" game_clock="05:30" htms="51" vtms="71" msg_type="8" action_type="0" player_code="tyreke_evans" tm="pelicans">
+<![CDATA[
+(05:30)[NOP] Evans Substitution replaced by Pondexter
+]]>
+</event>
+<event eventid="288" prd="3" game_clock="05:20" htms="51" vtms="71" msg_type="2" action_type="1" player_code="ryan_j_anderson" tm="pelicans">
+<![CDATA[ (05:20)[NOP] Anderson 3pt Shot: Missed ]]>
+</event>
+<event eventid="289" prd="3" game_clock="05:18" htms="51" vtms="71" msg_type="4" action_type="0" player_code="jonas_jerebko" tm="pistons">
+<![CDATA[ (05:18)[DET] Jerebko Rebound (Off:0 Def:2) ]]>
+</event>
+<event eventid="290" prd="3" game_clock="05:13" htms="51" vtms="71" msg_type="6" action_type="1" player_code="eric_gordon" tm="pelicans">
+<![CDATA[ (05:13)[NOP] Gordon Foul: Personal (3 PF) (2 FTA) ]]>
+</event>
+<event eventid="291" prd="3" game_clock="05:13" htms="52" vtms="71" msg_type="3" action_type="11" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(05:13)[DET 52-71] Jennings Free Throw 1 of 2 (10 PTS)
+]]>
+</event>
+<event eventid="293" prd="3" game_clock="05:13" htms="53" vtms="71" msg_type="3" action_type="12" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(05:13)[DET 53-71] Jennings Free Throw 2 of 2 (11 PTS)
+]]>
+</event>
+<event eventid="295" prd="3" game_clock="04:52" htms="53" vtms="73" msg_type="1" action_type="7" player_code="anthony_davis" tm="pelicans">
+<![CDATA[
+(04:52)[NOP 73-53] Davis Dunk Shot: Made (19 PTS) Assist: Pondexter (3 AST)
+]]>
+</event>
+<event eventid="296" prd="3" game_clock="04:32" htms="53" vtms="73" msg_type="2" action_type="1" player_code="kyle_singler" tm="pistons">
+<![CDATA[ (04:32)[DET] Singler Jump Shot: Missed ]]>
+</event>
+<event eventid="297" prd="3" game_clock="04:31" htms="53" vtms="73" msg_type="4" action_type="0" player_code="jonas_jerebko" tm="pistons">
+<![CDATA[ (04:31)[DET] Jerebko Rebound (Off:1 Def:2) ]]>
+</event>
+<event eventid="298" prd="3" game_clock="04:28" htms="53" vtms="73" msg_type="2" action_type="4" player_code="jonas_jerebko" tm="pistons">
+<![CDATA[ (04:28)[DET] Jerebko Tip Shot: Missed ]]>
+</event>
+<event eventid="299" prd="3" game_clock="04:27" htms="53" vtms="73" msg_type="4" action_type="0" player_code="anthony_davis" tm="pelicans">
+<![CDATA[ (04:27)[NOP] Davis Rebound (Off:2 Def:6) ]]>
+</event>
+<event eventid="300" prd="3" game_clock="04:19" htms="53" vtms="73" msg_type="5" action_type="1" player_code="eric_gordon" tm="pelicans">
+<![CDATA[
+(04:19)[NOP] Gordon Turnover : Bad Pass (4 TO) Steal:Singler (2 ST)
+]]>
+</event>
+<event eventid="301" prd="3" game_clock="04:15" htms="53" vtms="73" msg_type="5" action_type="1" player_code="kyle_singler" tm="pistons">
+<![CDATA[
+(04:15)[DET] Singler Turnover : Bad Pass (2 TO) Steal:Cunningham (1 ST)
+]]>
+</event>
+<event eventid="302" prd="3" game_clock="04:09" htms="53" vtms="76" msg_type="1" action_type="1" player_code="ryan_j_anderson" tm="pelicans">
+<![CDATA[
+(04:09)[NOP 76-53] Anderson 3pt Shot: Made (14 PTS) Assist: Davis (1 AST)
+]]>
+</event>
+<event eventid="303" prd="3" game_clock="03:58" htms="53" vtms="76" msg_type="9" action_type="1" player_code="" tm="pistons">
+<![CDATA[ (03:58)[DET] Team Timeout : Regular ]]>
+</event>
+<event eventid="305" prd="3" game_clock="03:58" htms="53" vtms="76" msg_type="8" action_type="0" player_code="kyle_singler" tm="pistons">
+<![CDATA[
+(03:58)[DET] Singler Substitution replaced by Meeks
+]]>
+</event>
+<event eventid="306" prd="3" game_clock="03:58" htms="53" vtms="76" msg_type="8" action_type="0" player_code="greg_monroe" tm="pistons">
+<![CDATA[
+(03:58)[DET] Monroe Substitution replaced by Butler
+]]>
+</event>
+<event eventid="307" prd="3" game_clock="03:58" htms="53" vtms="76" msg_type="8" action_type="0" player_code="kentavious_caldwell-pope" tm="pistons">
+<![CDATA[
+(03:58)[DET] Caldwell-Pope Substitution replaced by Anthony
+]]>
+</event>
+<event eventid="308" prd="3" game_clock="03:58" htms="53" vtms="76" msg_type="8" action_type="0" player_code="dante_cunningham" tm="pelicans">
+<![CDATA[
+(03:58)[NOP] Cunningham Substitution replaced by Fredette
+]]>
+</event>
+<event eventid="309" prd="3" game_clock="03:38" htms="53" vtms="76" msg_type="2" action_type="5" player_code="jonas_jerebko" tm="pistons">
+<![CDATA[
+(03:38)[DET] Jerebko Layup Shot: Missed Block: Davis (3 BLK)
+]]>
+</event>
+<event eventid="310" prd="3" game_clock="03:38" htms="53" vtms="76" msg_type="4" action_type="0" player_code="" tm="pistons">
+<![CDATA[ (03:38)[DET] Team Rebound ]]>
+</event>
+<event eventid="311" prd="3" game_clock="03:38" htms="53" vtms="76" msg_type="5" action_type="11" player_code="" tm="pistons">
+<![CDATA[ (03:38)[DET] Team Turnover : Shot Clock Turnover ]]>
+</event>
+<event eventid="312" prd="3" game_clock="03:23" htms="53" vtms="76" msg_type="2" action_type="1" player_code="quincy_pondexter" tm="pelicans">
+<![CDATA[ (03:23)[NOP] Pondexter 3pt Shot: Missed ]]>
+</event>
+<event eventid="313" prd="3" game_clock="03:22" htms="53" vtms="76" msg_type="4" action_type="0" player_code="joel_anthony" tm="pistons">
+<![CDATA[ (03:22)[DET] Anthony Rebound (Off:0 Def:1) ]]>
+</event>
+<event eventid="314" prd="3" game_clock="03:18" htms="53" vtms="76" msg_type="6" action_type="1" player_code="jimmer_fredette" tm="pelicans">
+<![CDATA[
+(03:18)[NOP] Fredette Foul: Personal (2 PF) (2 FTA)
+]]>
+</event>
+<event eventid="315" prd="3" game_clock="03:18" htms="54" vtms="76" msg_type="3" action_type="11" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(03:18)[DET 54-76] Jennings Free Throw 1 of 2 (12 PTS)
+]]>
+</event>
+<event eventid="317" prd="3" game_clock="03:18" htms="55" vtms="76" msg_type="3" action_type="12" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(03:18)[DET 55-76] Jennings Free Throw 2 of 2 (13 PTS)
+]]>
+</event>
+<event eventid="319" prd="3" game_clock="02:58" htms="55" vtms="76" msg_type="2" action_type="5" player_code="quincy_pondexter" tm="pelicans">
+<![CDATA[
+(02:58)[NOP] Pondexter Layup Shot: Missed Block: Anthony (1 BLK)
+]]>
+</event>
+<event eventid="320" prd="3" game_clock="02:56" htms="55" vtms="76" msg_type="4" action_type="0" player_code="jonas_jerebko" tm="pistons">
+<![CDATA[ (02:56)[DET] Jerebko Rebound (Off:1 Def:3) ]]>
+</event>
+<event eventid="321" prd="3" game_clock="02:47" htms="57" vtms="76" msg_type="1" action_type="5" player_code="joel_anthony" tm="pistons">
+<![CDATA[
+(02:47)[DET 57-76] Anthony Layup Shot: Made (2 PTS) Assist: Butler (1 AST)
+]]>
+</event>
+<event eventid="322" prd="3" game_clock="02:26" htms="57" vtms="76" msg_type="2" action_type="1" player_code="jimmer_fredette" tm="pelicans">
+<![CDATA[ (02:26)[NOP] Fredette 3pt Shot: Missed ]]>
+</event>
+<event eventid="323" prd="3" game_clock="02:26" htms="57" vtms="76" msg_type="4" action_type="0" player_code="joel_anthony" tm="pistons">
+<![CDATA[ (02:26)[DET] Anthony Rebound (Off:0 Def:2) ]]>
+</event>
+<event eventid="324" prd="3" game_clock="02:18" htms="57" vtms="76" msg_type="2" action_type="42" player_code="brandon_jennings" tm="pistons">
+<![CDATA[ (02:18)[DET] Jennings Driving Layup Shot: Missed ]]>
+</event>
+<event eventid="325" prd="3" game_clock="02:17" htms="57" vtms="76" msg_type="4" action_type="0" player_code="" tm="pelicans">
+<![CDATA[ (02:17)[NOP] Team Rebound ]]>
+</event>
+<event eventid="326" prd="3" game_clock="01:58" htms="57" vtms="76" msg_type="2" action_type="1" player_code="jimmer_fredette" tm="pelicans">
+<![CDATA[ (01:58)[NOP] Fredette 3pt Shot: Missed ]]>
+</event>
+<event eventid="327" prd="3" game_clock="01:57" htms="57" vtms="76" msg_type="4" action_type="0" player_code="anthony_davis" tm="pelicans">
+<![CDATA[ (01:57)[NOP] Davis Rebound (Off:3 Def:6) ]]>
+</event>
+<event eventid="328" prd="3" game_clock="01:54" htms="57" vtms="78" msg_type="1" action_type="87" player_code="anthony_davis" tm="pelicans">
+<![CDATA[
+(01:54)[NOP 78-57] Davis Putback Dunk Shot: Made (21 PTS)
+]]>
+</event>
+<event eventid="329" prd="3" game_clock="01:49" htms="57" vtms="78" msg_type="6" action_type="1" player_code="ryan_j_anderson" tm="pelicans">
+<![CDATA[
+(01:49)[NOP] Anderson Foul: Personal (1 PF) (2 FTA)
+]]>
+</event>
+<event eventid="330" prd="3" game_clock="01:49" htms="58" vtms="78" msg_type="3" action_type="11" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(01:49)[DET 58-78] Jennings Free Throw 1 of 2 (14 PTS)
+]]>
+</event>
+<event eventid="332" prd="3" game_clock="01:49" htms="59" vtms="78" msg_type="3" action_type="12" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(01:49)[DET 59-78] Jennings Free Throw 2 of 2 (15 PTS)
+]]>
+</event>
+<event eventid="334" prd="3" game_clock="01:34" htms="59" vtms="81" msg_type="1" action_type="1" player_code="quincy_pondexter" tm="pelicans">
+<![CDATA[
+(01:34)[NOP 81-59] Pondexter 3pt Shot: Made (3 PTS) Assist: Anderson (2 AST)
+]]>
+</event>
+<event eventid="335" prd="3" game_clock="01:18" htms="59" vtms="81" msg_type="2" action_type="1" player_code="joel_anthony" tm="pistons">
+<![CDATA[ (01:18)[DET] Anthony Jump Shot: Missed ]]>
+</event>
+<event eventid="336" prd="3" game_clock="01:17" htms="59" vtms="81" msg_type="4" action_type="0" player_code="quincy_pondexter" tm="pelicans">
+<![CDATA[ (01:17)[NOP] Pondexter Rebound (Off:1 Def:3) ]]>
+</event>
+<event eventid="337" prd="3" game_clock="01:05" htms="59" vtms="81" msg_type="6" action_type="2" player_code="caron_butler" tm="pistons">
+<![CDATA[ (01:05)[DET] Butler Foul: Shooting (2 PF) (2 FTA) ]]>
+</event>
+<event eventid="338" prd="3" game_clock="01:05" htms="59" vtms="82" msg_type="3" action_type="11" player_code="anthony_davis" tm="pelicans">
+<![CDATA[
+(01:05)[NOP 82-59] Davis Free Throw 1 of 2 (22 PTS)
+]]>
+</event>
+<event eventid="340" prd="3" game_clock="01:05" htms="59" vtms="82" msg_type="8" action_type="0" player_code="eric_gordon" tm="pelicans">
+<![CDATA[ (01:05)[NOP] Gordon Substitution replaced by Evans ]]>
+</event>
+<event eventid="341" prd="3" game_clock="01:05" htms="59" vtms="83" msg_type="3" action_type="12" player_code="anthony_davis" tm="pelicans">
+<![CDATA[
+(01:05)[NOP 83-59] Davis Free Throw 2 of 2 (23 PTS)
+]]>
+</event>
+<event eventid="343" prd="3" game_clock="00:48.9" htms="59" vtms="83" msg_type="2" action_type="1" player_code="brandon_jennings" tm="pistons">
+<![CDATA[ (00:48.9)[DET] Jennings 3pt Shot: Missed ]]>
+</event>
+<event eventid="344" prd="3" game_clock="00:47.9" htms="59" vtms="83" msg_type="4" action_type="0" player_code="jonas_jerebko" tm="pistons">
+<![CDATA[ (00:47.9)[DET] Jerebko Rebound (Off:2 Def:3) ]]>
+</event>
+<event eventid="345" prd="3" game_clock="00:45.8" htms="62" vtms="83" msg_type="1" action_type="1" player_code="caron_butler" tm="pistons">
+<![CDATA[
+(00:45.8)[DET 62-83] Butler 3pt Shot: Made (3 PTS) Assist: Jennings (3 AST)
+]]>
+</event>
+<event eventid="346" prd="3" game_clock="00:27.9" htms="62" vtms="83" msg_type="5" action_type="1" player_code="ryan_j_anderson" tm="pelicans">
+<![CDATA[
+(00:27.9)[NOP] Anderson Turnover : Bad Pass (1 TO) Steal:Jerebko (2 ST)
+]]>
+</event>
+<event eventid="347" prd="3" game_clock="00:21.2" htms="65" vtms="83" msg_type="1" action_type="1" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(00:21.2)[DET 65-83] Jennings 3pt Shot: Made (18 PTS)
+]]>
+</event>
+<event eventid="348" prd="3" game_clock="00:10.9" htms="65" vtms="83" msg_type="2" action_type="5" player_code="tyreke_evans" tm="pelicans">
+<![CDATA[ (00:10.9)[NOP] Evans Layup Shot: Missed ]]>
+</event>
+<event eventid="349" prd="3" game_clock="00:08.9" htms="65" vtms="83" msg_type="4" action_type="0" player_code="jonas_jerebko" tm="pistons">
+<![CDATA[ (00:08.9)[DET] Jerebko Rebound (Off:2 Def:4) ]]>
+</event>
+<event eventid="350" prd="3" game_clock="00:06.6" htms="65" vtms="83" msg_type="6" action_type="2" player_code="ryan_j_anderson" tm="pelicans">
+<![CDATA[
+(00:06.6)[NOP] Anderson Foul: Shooting (2 PF) (2 FTA)
+]]>
+</event>
+<event eventid="351" prd="3" game_clock="00:06.6" htms="66" vtms="83" msg_type="3" action_type="11" player_code="brandon_jennings" tm="pistons">
+<![CDATA[
+(00:06.6)[DET 66-83] Jennings Free Throw 1 of 2 (19 PTS)
+]]>
+</event>
+<event eventid="353" prd="3" game_clock="00:06.6" htms="66" vtms="83" msg_type="3" action_type="12" player_code="brandon_jennings" tm="pistons">
+<![CDATA[ (00:06.6)[DET] Jennings Free Throw 2 of 2 Missed ]]>
+</event>
+<event eventid="355" prd="3" game_clock="00:05.9" htms="66" vtms="83" msg_type="4" action_type="0" player_code="quincy_pondexter" tm="pelicans">
+<![CDATA[ (00:05.9)[NOP] Pondexter Rebound (Off:1 Def:4) ]]>
+</event>
+<event eventid="356" prd="3" game_clock="00:01.4" htms="66" vtms="83" msg_type="2" action_type="5" player_code="anthony_davis" tm="pelicans">
+<![CDATA[
+(00:01.4)[NOP] Davis Layup Shot: Missed Block: Anthony (2 BLK)
+]]>
+</event>
+<event eventid="357" prd="3" game_clock="00:00.8" htms="66" vtms="83" msg_type="4" action_type="0" player_code="caron_butler" tm="pistons">
+<![CDATA[ (00:00.8)[DET] Butler Rebound (Off:0 Def:1) ]]>
+</event>
+<event eventid="358" prd="3" game_clock="00:00.0" htms="66" vtms="83" msg_type="13" action_type="0" player_code="" tm="pistons">
+<![CDATA[ (00:00.0)End Period ]]>
+</event>
+</game>
+</message>
